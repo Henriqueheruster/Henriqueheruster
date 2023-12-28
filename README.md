@@ -1,9 +1,9 @@
-<h1>Bem vindo ao meu perfil</h1>
+<h1>Bem vindo! Eu sou Henrique Heruster</h1>
 
-- 👨‍💻Estudando Eng.Software.
-- 🖥Gosto de estudar Hacking.
-- 😁Busca de oportunidades em TI.
-- ✉Contato: henriquezxt@gmail.com
+- 👨‍💻 <strong>Estudando Eng.Software.</strong>
+- 🖥 <strong>Gosto de estudar Hacking.</strong>
+- 😁 <strong>Busca de oportunidades em TI.</strong>
+- ✉ <strong>Contato: henriquezxt@gmail.com</strong>
 
 <div>
   <a href="https://github.com/Henriqueheruster">
@@ -16,13 +16,13 @@
   <img align="center" alt="Henrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Henrique-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Henrique-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Henrique-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Henrique-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </div>
 
   ##
   
   <div> 
   <a href="https://instagram.com/henriqueheruster" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:henriquezxt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href = "mailto:henriquezxt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-heruster-24287117b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
