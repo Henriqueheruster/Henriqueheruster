@@ -1,7 +1,7 @@
 <h1>Bem vindo! Eu sou Henrique Heruster</h1>
 
-- 👨‍💻 <strong>Estudando Eng.Software.</strong>
-- 🖥 <strong>Gosto de estudar Hacking.</strong>
+- 👨‍💻 <strong>Engenheiro de Software | Programador de sistemas |</strong>
+- 🖥 <strong>Gosto de estudar Cybersegurança.</strong>
 - 😁 <strong>Busca de oportunidades em TI.</strong>
 - ✉ <strong>Contato: henriquezxt@gmail.com</strong>
 
